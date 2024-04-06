@@ -8,7 +8,9 @@ author_profile: true
 Publications
 ------
 [1] **Zhang, C.**, Chen, J., Li, J., Peng, Y., & Mao, Z. (2023). Large language models for human-robot interaction: A review. Biomimetic Intelligence and Robotics, 100131. [(Paper link)](https://www.sciencedirect.com/science/article/pii/S2667379723000451)
+
 [2] **Zhang, C.**, Meng, X., Qi, D., & Chirikjian, G. S. (2024). RAIL: Robot Affordance Imagination with Large Language Models. arXiv preprint arXiv:2403.19369.(Under review of IROS 2024)[(Arxiv link)](https://arxiv.org/abs/2403.19369)
+
 [3] Peng, Y., **Zhang, C.**, Hu, C., & Mao, Z. (2024). Integration of Large Language Models in Control of EHD Pumps for Precise Color Synthesis. arXiv preprint arXiv:2401.11500.[(Arxiv link)](https://arxiv.org/abs/2401.11500)
 
 Projects
