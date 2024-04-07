@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student from National University of Singapore, currently working as a Research Engineer in the department of mechanical engieering at NUS. I work with Prof. Gregory S. Chirikjian in the [Robot and Protein Kinematics Laboratory (RPK)](https://chirikjianlab.github.io) Laboratory.
+I am a graduate student from National University of Singapore, currently working as a Research Engineer in the department of mechanical engieering at NUS. I work under supervision of Prof. Gregory S. Chirikjian in the [Robot and Protein Kinematics (RPK) Laboratory](https://chirikjianlab.github.io).
 
-My research interests includes **reinforcement learning**, **artificial intelligence** and **large language models** in robot manipulation control. I am committed to applying AI to equip robots with thinking brains and create more intelligent human-robot interaction.
+My research interests includes **reinforcement learning**, **artificial intelligence** and **large language models** in robotics. I am committed to leveraging AI to equip robots with thinking brains and create more intelligent human-robot interaction.
 
 Recent updates
 ------
