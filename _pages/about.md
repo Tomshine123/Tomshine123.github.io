@@ -14,8 +14,11 @@ My research interests includes **reinforcement learning**, **artificial intellig
 
 Recent updates
 ------
+* May 2025: The paper titled The Curious Robot: Generalized Affordance Reasoning with Physics-Based and LLM-Enhanced Imagination has been accepted by International Symposium on Experimental Robotics (ISER).
+* Jan 2025: I continue my study as a PhD student at National University of Singapore.
+* Sep 2024: The paper titled "Goal-Guided Reinforcement Learning: Leveraging Large Language Models for Long-horizon Task Decomposition" submitted (and accepted) by ICRA 2025.
 * Oct 2023: My review paper "Large language models in human-robot interaction: A review" is accepted by [Biomimetic Intelligence and Robotics](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics).
-* Jul 2023: My start my academic position as a Research Engineer at National University of Singapore.
+* Jul 2023: I start my academic position as a Research Engineer at National University of Singapore.
 * Jun 2023: I graduate as a master student from National University of Singapore, major in Mechanical Engineering.
 * Nov 2022: I start my intern as a Research Assistant at [Institute of Infocomm Research(I2R)](https://www.a-star.edu.sg/i2r), A-STAR in Singapore.
 * Jun 2022: I graduate from Beijing Jiaotong University with a bachelor degree in Mechatronics Engineering.
